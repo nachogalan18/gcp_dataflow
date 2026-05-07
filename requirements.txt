@@ -1,0 +1,11 @@
+
+---
+
+### `requirements.txt`
+
+Déjalo vacío por ahora si todavía no usas librerías externas.
+
+Cuando instales paquetes puedes generar automáticamente el contenido con:
+
+```bash
+pip freeze > requirements.txt
